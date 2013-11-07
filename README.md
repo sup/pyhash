@@ -1,4 +1,3 @@
-======
 pyhash
 ======
 pyhash is a lightweight module containing a variety of different hash 
